@@ -1,0 +1,8 @@
+{
+  "name": "crackOS-Taskbar",
+  "description": "Taskbar widget for crackOS",
+  "uuid": "crackos-taskbar@xleepree",
+  "shell-version": [
+    "50"
+  ]
+}
